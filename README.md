@@ -65,4 +65,13 @@ A dynamic debate assistant leveraging Google's Gemini AI for real-time argument 
 - **Implement advanced contradiction detection**: Enhance contradiction detection with more sophisticated logic.
 - **Add debate scoring system**: Introduce a scoring mechanism to evaluate debate performance.
 - **Include fact-checking capabilities**: Integrate fact-checking to verify claims during debates.
-   
+   ---
+## SCREENSHOTS
+**Debate About Climate Change**
+<img width="1011" alt="Screenshot 2025-02-17 at 6 53 27 PM" src="https://github.com/user-attachments/assets/a17e021f-a552-4b22-b309-46cfe08e0f9f" />
+
+---
+**Debate About Sex Education**
+<img width="1011" alt="Screenshot 2025-02-17 at 11 43 59 PM" src="https://github.com/user-attachments/assets/1b9d8277-2b86-4304-b44e-ab28a1c534f4" />
+
+
